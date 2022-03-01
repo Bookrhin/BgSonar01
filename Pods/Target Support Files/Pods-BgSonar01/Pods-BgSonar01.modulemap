@@ -1,0 +1,6 @@
+framework module Pods_BgSonar01 {
+  umbrella header "Pods-BgSonar01-umbrella.h"
+
+  export *
+  module * { export * }
+}
